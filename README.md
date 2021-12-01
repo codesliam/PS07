@@ -36,9 +36,7 @@ Angeles county. Los Angeles county experienced a very low net migration;
 many more people left the county than moved in. The GDP likely has to do
 with the high economic value of the entertainment industry located in
 LA, and the migration is possibly due to the high cost of housing and
-living in the county, which is 43% higher than the national average.[1]
-
-For this map, the geographical data, including the counties, was taken
+living in the county, which is 43% higher than the national average.[1] For this map, the geographical data, including the counties, was taken
 from the tidycensus package. The GDP data was taken from the BEA.[2]
 
 ![](README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
