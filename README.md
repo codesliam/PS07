@@ -1,4 +1,4 @@
-A Map of California with Census and GDP D ata
+A Map of California with Census and GDP Data
 ================
 
 Note: Collaborative work with Margo Weber.
